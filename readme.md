@@ -361,34 +361,6 @@ Understanding ES6 is therefore not just about learning new syntax—it is about 
 
 ---
 
-# ▶️ How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/aminulislam424842/module-16-JS-ES6-day-1.git
-```
-
-Navigate into the project:
-
-```bash
-cd module-16-JS-ES6-day-1
-```
-
-Run any JavaScript file:
-
-```bash
-node 16-01-var-let-const.js
-```
-
-For example:
-
-```bash
-node 16-25-es6-mini-challenge.js
-```
-
----
-
 # 📈 Progress
 
 ```text
